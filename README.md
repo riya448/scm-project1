@@ -1,2 +1,2 @@
 # scm-project1
-project of scm
+Project of scm
